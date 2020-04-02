@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1581145223 source:c:\users\sankar\desktop\arm files\final submission\q15\main.c
+	<stdio.h>
+	<stdlib.h>
+	<dir.h>
+	<string.h>
+
